@@ -6,7 +6,7 @@ It's the engine behind [EcoEnchants](https://polymart.org/resource/490), [Reforg
 [EcoArmor](https://polymart.org/resource/687), [Talismans](https://polymart.org/resource/611),
 and many more.
 
-<p>
+<p> 
     <a href="https://github.com/Auxilor/eco/releases">
         <img alt="spigot" src="https://img.shields.io/github/v/release/Auxilor/eco?color=informational"/>
     </a>
